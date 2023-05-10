@@ -1,0 +1,7 @@
+me\jsinco\boosters\boosterShop.class
+me\jsinco\boosters\itemShop.class
+me\jsinco\boosters\util\savedBoosters.class
+me\jsinco\boosters\Boosters.class
+me\jsinco\boosters\BoosterGUI.class
+me\jsinco\boosters\command.class
+me\jsinco\boosters\util\EnsureSurvivalDefaults.class

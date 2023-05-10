@@ -1,0 +1,22 @@
+name: Boosters
+prefix: Itemshop/Boosters
+version: 2.0
+author: Jsinco
+main: me.jsinco.boosters.Boosters
+api-version: 1.19
+commands:
+  immortal:
+    description: Immortal command
+    usage: /<command>
+    permission: immortal.command
+    permission-message: No permission
+  itemshop:
+    description: Itemshop command
+    usage: /<command>
+    permission: itemshop.command
+    permission-message: No permission
+  boosters:
+    description: Boosters command
+    usage: /<command>
+    permission: boosters.command
+    permission-message: No permission
